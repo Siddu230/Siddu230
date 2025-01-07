@@ -15,7 +15,7 @@ I’m a **Computer Science and Design (CSD)** student at **NIT PATNA**, deeply p
 
 ✨ **What I Do:**  
 - 💻 Write efficient and elegant code in **C++, JavaScript, and Python.**  
-- 🌐 Build dynamic, user-friendly web applications using **React, Node.js, MongoDB, and Bootstrap.**  
+- 🌐 Build dynamic, user-friendly web applications using **HTML,CSS,JavaScript& React.**  
 - 🎯 Solve challenging **DSA problems** to hone my logic and analytical skills.  
 - 📖 Stay curious and keep learning new tools, frameworks, and methodologies.  
 
@@ -46,6 +46,7 @@ I’m a **Computer Science and Design (CSD)** student at **NIT PATNA**, deeply p
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
