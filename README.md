@@ -9,7 +9,7 @@
 ---
 
 🌟 **Who am I?**  
-I’m a **Computer Science and Design (CSD)** student at **NIT PATNA**, deeply passionate about technology. I’m currently mastering **web development** and **problem-solving** while exploring other emerging tech skills to broaden my horizons. My mission is to merge creativity with logic to build solutions that make a difference.
+I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, deeply passionate about technology. I’m currently mastering **web development** and **problem-solving** while exploring other emerging tech skills to broaden my horizons. My mission is to merge creativity with logic to build solutions that make a difference.
 
 ---
 
