@@ -52,3 +52,5 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 </p>
 
 ---
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddu230&show_icons=true&theme=radical)
