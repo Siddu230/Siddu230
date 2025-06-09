@@ -75,6 +75,11 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 ![](https://github-contributor-stats.vercel.app/api?username=Siddu230&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddu230/Siddu230/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddu230/Siddu230/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Siddu230/Siddu230/output/github-snake.svg" />
+</picture>
 
 
 
