@@ -1,3 +1,4 @@
+![Totals Hits](https://komarev.com/ghpvc/?username=siddu230&style=flat&color=orange&label=PROFILE+VIEWS)
 <h1 align="center">
    Hello! This is SIDDARDHA
 </h1>
@@ -69,7 +70,6 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Siddu230&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![Totals Hits](https://komarev.com/ghpvc/?username=siddu230&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 ### 🔝 Top Contributed Repo
