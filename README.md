@@ -16,7 +16,7 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 
 ✨ **What I Do:**  
 - 💻 Write efficient and elegant code in **C++, JavaScript, and Python.**  
-- 🌐 Build dynamic, user-friendly web applications using **HTML,CSS,JavaScript& React.**  
+- 🌐 Build dynamic, user-friendly web applications using **HTML,CSS,JS,React,Node js,Express &MongoDb.**  
 - 🎯 Solve challenging **DSA problems** to hone my logic and analytical skills.  
 - 📖 Stay curious and keep learning new tools, frameworks, and methodologies.  
 
