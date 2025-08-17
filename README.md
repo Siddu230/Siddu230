@@ -29,7 +29,7 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 
 <h3 align="center">📬 Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanapala-sai-siddardha-415486282/" target="blank">
+  <a href="https://in.linkedin.com/in/siddardha-sanapala-7a54a0342" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/sanapala_sai_siddardha/" target="blank">
