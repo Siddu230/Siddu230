@@ -67,11 +67,6 @@ I’m a **Computer Science and Engineering (CSE)** student at **NIT PATNA**, dee
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siddu230&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Siddu230&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
